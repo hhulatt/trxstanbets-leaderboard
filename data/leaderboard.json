@@ -1,7 +1,7 @@
 {
-  "cycle": "2026-10-01",
-  "periodStart": "2026-10-01",
-  "periodEnd": "2026-10-31",
+  "cycle": "2026-11-01",
+  "periodStart": "2026-11-01",
+  "periodEnd": "2026-11-30",
   "cycleMode": "monthly",
   "cycleStartDay": 1,
   "timezone": "Europe/London",
@@ -17,8 +17,7 @@
   "boardSize": 25,
   "totalWagered": 0,
   "playerCount": 0,
-  "cacheUpdatedAt": null,
-  "updatedAt": "2026-10-31T05:21:30.361Z",
-  "entries": [],
-  "startsOn": "2026-11-01"
+  "cacheUpdatedAt": "2026-11-01 01:45:11",
+  "updatedAt": "2026-11-01T01:45:11.573Z",
+  "entries": []
 }
