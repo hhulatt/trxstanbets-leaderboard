@@ -352,7 +352,7 @@
     const match = board.entries.find((e) => e.hash === hash);
 
     if (!match) {
-      setResult(`No wagers found for "${query}" this cycle. Make sure you signed up with code TRXSTANBETS and that the spelling matches exactly.`, 'miss');
+      setResult(`No wagers found for "${query}" this cycle. Make sure you signed up with code TRISTANBETS and that the spelling matches exactly.`, 'miss');
       return;
     }
 
