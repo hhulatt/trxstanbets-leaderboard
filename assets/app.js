@@ -20,7 +20,7 @@
   const HISTORY_INDEX_URL = 'data/history/index.json';
   /* A weekly board runs alongside the monthly one, funded separately by the
      creator. The code ships to every site; only this flag turns it on. */
-  const WEEKLY_ENABLED = false;
+  const WEEKLY_ENABLED = true;
   const WEEK_DATA_URL = 'data/weekly.json';
   const WEEK_HISTORY_INDEX_URL = 'data/history-weekly/index.json';
 

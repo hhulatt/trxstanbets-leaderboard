@@ -3,7 +3,7 @@
 Live at **https://trxstanbets.com/**
 
 A one-page static site showing a $250 monthly wager leaderboard for Rainbet
-affiliate code **TRXSTANBETS**. Generated from the Forge Partners leaderboard
+affiliate code **TRISTANBETS**. Generated from the Forge Partners leaderboard
 template — do not hand-edit, see *Making changes* below.
 
 ## How it works
@@ -33,15 +33,15 @@ The board therefore keeps working if the API is down, and costs nothing to serve
 
 | Setting | Value |
 | --- | --- |
-| Affiliate code | `TRXSTANBETS` |
-| Referral link | https://rainbet.com?r=trxstanbets |
+| Affiliate code | `TRISTANBETS` |
+| Referral link | https://rainbet.com?r=tristanbets |
 | Prize pool | $250 across 5 places |
 | Split | 1st $100 · 2nd $60 · 3rd $40 · 4th $30 · 5th $20 |
 | Cycle | Calendar month — 1st to the last day of the month |
 | First cycle | 2026-11-01 — earlier months are never shown as past winners |
 | Timezone | Europe/London |
 | Refresh | 2 0 * * * and 2 23 * * * (UTC) |
-| Weekly board | off — set "weekly" in the creator config to switch it on |
+| Weekly board | on — $50 across 3 places, Monday to Sunday UK time |
 | Username masking | on — usernames are published with the middle starred out |
 
 ## Go-live checklist
