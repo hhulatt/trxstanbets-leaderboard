@@ -46,7 +46,7 @@ const FIRST_CYCLE = '2026-11-01';
 const WEEKLY_ENABLED = true;
 const WEEKLY_PRIZES = [25,15,10];
 const WEEKLY_BOARD_SIZE = 25;
-const WEEKLY_FIRST_CYCLE = '2026-11-23';
+const WEEKLY_FIRST_CYCLE = '2026-11-30';
 
 /** Today's date in the leaderboard timezone, as { year, month, day }. */
 function todayInTz() {
